@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "IqQU4mo5NFeEYKJYplomsjYiEEW2BDooytb4jkVDq8Y=",
+  "Source": "MiProyectoWeb",
+  "BasePath": "_content/MiProyectoWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MiProyectoWeb\\wwwroot",
+      "Source": "MiProyectoWeb",
+      "ContentRoot": "D:\\documentos\\Facultad\\CURSOS ACTUALES\\Agil2\\Presentacion\\Test\\MiProyectoWeb\\wwwroot\\",
+      "BasePath": "_content/MiProyectoWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\documentos\\Facultad\\CURSOS ACTUALES\\Agil2\\Presentacion\\Test\\MiProyectoWeb\\wwwroot\\index.html",
+      "SourceId": "MiProyectoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\documentos\\Facultad\\CURSOS ACTUALES\\Agil2\\Presentacion\\Test\\MiProyectoWeb\\wwwroot\\",
+      "BasePath": "_content/MiProyectoWeb",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
