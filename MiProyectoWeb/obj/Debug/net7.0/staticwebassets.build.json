@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IqQU4mo5NFeEYKJYplomsjYiEEW2BDooytb4jkVDq8Y=",
+  "Hash": "EbmDdmxixKTOMM0Ht6o+R5cvSgWKGuxjFvJ/wGZoiXo=",
   "Source": "MiProyectoWeb",
   "BasePath": "_content/MiProyectoWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MiProyectoWeb\\wwwroot",
       "Source": "MiProyectoWeb",
-      "ContentRoot": "D:\\documentos\\Facultad\\CURSOS ACTUALES\\Agil2\\Presentacion\\Test\\MiProyectoWeb\\wwwroot\\",
+      "ContentRoot": "D:\\documentos\\Facultad\\CURSOS ACTUALES\\Agil2\\Presentacion\\Agil2_Integracion_continua\\MiProyectoWeb\\wwwroot\\",
       "BasePath": "_content/MiProyectoWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\documentos\\Facultad\\CURSOS ACTUALES\\Agil2\\Presentacion\\Test\\MiProyectoWeb\\wwwroot\\index.html",
+      "Identity": "D:\\documentos\\Facultad\\CURSOS ACTUALES\\Agil2\\Presentacion\\Agil2_Integracion_continua\\MiProyectoWeb\\wwwroot\\index.html",
       "SourceId": "MiProyectoWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\documentos\\Facultad\\CURSOS ACTUALES\\Agil2\\Presentacion\\Test\\MiProyectoWeb\\wwwroot\\",
+      "ContentRoot": "D:\\documentos\\Facultad\\CURSOS ACTUALES\\Agil2\\Presentacion\\Agil2_Integracion_continua\\MiProyectoWeb\\wwwroot\\",
       "BasePath": "_content/MiProyectoWeb",
       "RelativePath": "index.html",
       "AssetKind": "All",
