@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="FinalWebApp20231016141237" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\documentos\\Facultad\\CURSOS\ ACTUALES\\Agil2\\Presentacion\\Agil2_Integracion_continua\\FinalWebApp\\FinalWebApp\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
